@@ -45,12 +45,8 @@ body {
 
 }
 
-.h3 {
-    font-size: 20px;
-}
-
 #guide-section {
-    height: 648px;
+    height: 650px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -68,3 +64,6 @@ body {
 }
 
 
+  #costco-img:hover {
+    content: url("https://media1.tenor.com/m/pY6-HVaUmZcAAAAd/costco.gif");
+  }
